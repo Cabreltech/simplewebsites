@@ -1,8 +1,24 @@
-body {
-background-color:green;color:white;
-padding:0
-}
 h1 {
-background-color:black;
-padding:0
+background-color:grey;
+color:black;
+text-align:center;
+margin:0;
+padding:0}
+h3 {
+color:orange;
+padding:0px;
+margin:0px
+}
+h4 {
+color:grey;
+text-align:center
+}
+body {
+background-color:indigo;
+color:red;
+margin:0px;
+padding:0px
+}
+a {
+color:green
 }
